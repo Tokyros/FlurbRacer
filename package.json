@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Tokyros/FlurbRacer/issues"
   },
-  "homepage": "https://github.com/Tokyros/FlurbRacer#readme"
+  "homepage": "https://github.com/Tokyros/FlurbRacer#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
